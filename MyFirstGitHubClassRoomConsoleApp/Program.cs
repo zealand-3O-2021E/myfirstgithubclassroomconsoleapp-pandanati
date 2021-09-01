@@ -11,6 +11,8 @@ namespace MyFirstGitHubClassRoomConsoleApp
         static void Main(string[] args)
         {
             //Opgave tilføj en Console.writeline med noget tekst og commit + push
+
+            Console.WriteLine("Helloooo");
             //se herefter på dit GitHub Classroom repo om ændringen er kommet op 
         }
     }
